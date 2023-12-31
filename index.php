@@ -66,8 +66,8 @@
    
     <div class="main-heading">
             <h1>MEN'S SUITS </h1>
-            <p>Luxe intemporel, style moderne.Dress for success with MEN'S SUITS. Elevate your style with our impeccable men's suits timeless elegance tailored just for you. Shop now!</p>
-            <a class="main-btn" href="#">​DÉCOUVRIR LES NOUVAUX MODÉLES</a>
+            <p>Timeless luxury, modern style.Dress for success with MEN'S SUITS. Elevate your style with our impeccable men's suits timeless elegance tailored just for you. Shop now!</p>
+            <a class="main-btn" href="#">​​DISCOVER THE NEW MODELS</a>
         </div>
         </div>
     <h2 class="product-title">Featured Products</h2>
@@ -122,7 +122,7 @@
                knows no bounds, inviting you to elevate your presence in every detail.<br>
                Welcome to a world of fashion like no other,where each piece tells<br>
               a story of enduring elegance.</p>
-            <button class="main-btn">Read More</button>
+            <button class="main-btn">Discover more</button>
         </div>
     </section>
 
@@ -130,13 +130,13 @@
     <footer class="contact">
         <div class="contact-heading">
             <h1>Contact Us</h1>
-            <p>For question.</p>
+            <p>Fill out the form to contact our Client Service.</p>
         </div>
         <form action="userinformation.php" method="post">
             <input type="text" name="user" placeholder="Your Full Name"/>
             <input type="email" name="email" placeholder="Your E-Mail"/>
             <textarea name="message" placeholder="Type Your Message Here...."></textarea>
-            <button class="main-btn contact-btn" type="submit">Envoyer</button>
+            <button class="main-btn contact-btn" type="submit">Send</button>
         </form>
     </footer>
 
